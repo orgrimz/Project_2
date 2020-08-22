@@ -2,7 +2,11 @@
 \usepackage{geometry}
 \geometry{a4paper, margin = 1in, left = 1.2in}
 \usepackage{graphicx}
+\graphicspath{{D:/Ze/Works/GitHub/Project2/Image/}}
 \usepackage{float}
+\usepackage{csvsimple}
+\usepackage{pgfplotstable}
+\usepackage{booktabs}
 
 \begin{document}
 
@@ -88,16 +92,40 @@ Arduino is a microcontroller which can only work in accordance with the program 
 
 \section{System} \label{sec:system}
 
-\subsection{Block diagram of System} \label{subsec:block diagram}
+\subsection{Block diagram of the System} \label{subsec:block diagram}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[height=2cm]{\Ze\Works\GitHub\Project_2\Image\Block_diagram.jpg}
-	\caption{Block diagram of this system} \label{fig:block}
-	
-	
+	\includegraphics[height= 6cm]{Blockdiagram}
+	\caption{Block diagram of the system} \label{fig:block}	
 \end{figure}
 
+The block diagram shown in Figure \ref{fig:block} depicts how our system works. Firstly, the microcontroller, Arduino, will receive the data from sensors and ESP8266. Then Arduino will send it to driver. Lastly, the driver will drive the motor.
 
+\subsection{Controller} \label{sub:controller}
+
+\subsubsection{Arduino Uno Board} \label{subsub:arduino}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 6cm]{ArduinoUno}
+	\caption{Arduino UNO Board} \label{fig:arduino}
+\end{figure}
+
+The Microcontroller that we are going to use is Arduino UNO since it is a beginner friendly and easily to code. Arduino UNO, operating at 5V, comes with 14 Digital input and 6 Analog input which is more than enough for this project. Using Arduino UNO make us applied what we have learned so far in the classroom into the real world. Furthermore, Arduino UNO are used in various of projects around the world so that we can have many references and support as we want. We use Arduino UNO to be the main controller.\\
+
+\bfseries{The table of specification}
+
+\begin{table}[H]
+	\centering
+	\label{tab:arduino}
+	\caption{The table of specification of Arduino UNO}
+	\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	every head row/.style = {before row=\toprule ,after row = \midrule},
+	every last row/.style ={after row = \bottomrule},
+	columns/No./.style={column type = l}]{Arduino.csv}
+\end{table}
 
 \end{document}

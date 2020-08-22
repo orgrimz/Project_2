@@ -1,0 +1,15 @@
+﻿No.,Description,Remarks
+1,Microcontroller,ATmega328P
+2,Operating Voltage,5 V
+3,Input Voltage,7-12 V
+,(Recommended),
+4,Digital I/O Pins,14 (of which 6 provided
+,,PWM output)
+5,PWM Digital I/O Pins,6
+6,Analog Input Pins,6
+7,DC Current per I/O Pin,20 mA
+8,DC Current for 3.3V Pin,50 mA
+9,Flash Memory,32 KB
+10,SRAM,2KB
+11,EEPROM,1KB
+12,Clock Speed,16Hz
