@@ -7,6 +7,9 @@
 \usepackage{csvsimple}
 \usepackage{pgfplotstable}
 \usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subcaption}
+
 
 \begin{document}
 
@@ -108,18 +111,16 @@ The block diagram shown in Figure \ref{fig:block} depicts how our system works. 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[height= 6cm]{ArduinoUno}
+	\includegraphics[height= 5cm]{ArduinoUno}
 	\caption{Arduino UNO Board} \label{fig:arduino}
 \end{figure}
 
-The Microcontroller that we are going to use is Arduino UNO since it is a beginner friendly and easily to code. Arduino UNO, operating at 5V, comes with 14 Digital input and 6 Analog input which is more than enough for this project. Using Arduino UNO make us applied what we have learned so far in the classroom into the real world. Furthermore, Arduino UNO are used in various of projects around the world so that we can have many references and support as we want. We use Arduino UNO to be the main controller.\\
-
-\bfseries{The table of specification}
+The Microcontroller that we are going to use is Arduino UNO since it is a beginner friendly and easily to code. Arduino UNO, operating at 5V, comes with 14 Digital input and 6 Analog input which is more than enough for this project. Using Arduino UNO make us applied what we have learned so far in the classroom into the real world. Furthermore, Arduino UNO are used in various of projects around the world so that we can have many references and support as we want. We use Arduino UNO to be the main controller.
 
 \begin{table}[H]
 	\centering
 	\label{tab:arduino}
-	\caption{The table of specification of Arduino UNO}
+	\caption{Specification of Arduino UNO}
 	\pgfplotstabletypeset[
 	col sep=comma,
 	string type,
@@ -127,5 +128,161 @@ The Microcontroller that we are going to use is Arduino UNO since it is a beginn
 	every last row/.style ={after row = \bottomrule},
 	columns/No./.style={column type = l}]{Arduino.csv}
 \end{table}
+
+\subsubsection{ESP8266} \label{subsub:esp}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{ESP8266}
+	\caption{ESP8266 Board} \label{fig:esp}
+\end{figure}
+
+\normalfont The ESP8266 is another microcontroller that we use in this project. This MCU has a Wi-Fi receiver so that we can communicate it via application in the smart phone. The communication will start from the application to ESP8266 via WiFi and then back to Arduino UNO via serial communication. We use this controller to connect the application to Arduino for entering commands via the application.
+
+\begin{table}[H]
+	\centering
+	\label{tab:esp}
+	\caption{Specification of ESP8266 Board}
+	\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	every head row/.style = {before row=\toprule ,after row = \midrule},
+	every last row/.style ={after row = \bottomrule},
+	columns/No./.style={column type = l}]{ESP8266.csv}
+\end{table}
+
+\subsection{Sensors} \label{sub:sensors}
+
+\subsubsection{Infrared (IR) Obstacle Avoidance Sensor Module} \label{subsub:ir}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Infrared}
+	\caption{Infrared (IR) Sensor} \label{fig:ir}
+\end{figure}
+
+IR Infrared Obstacle Avoidance Sensor Module, working under voltage of 3.3 to 5 V DC, is an optical sensor for detecting obstructions or black surfaces. Receiver will always be able to receive the light signal from Emitter transmitter if the surface is not black and the value is 0. On the other hand, emitter sent the signal to the black surface Therefore, the Receiver cannot receive the signal from reflection then the value is 1. From this project we use them to detect black line in order to make the trolley run along the black line. We use IR infrared to detect the black line is defined.
+
+\subsubsection{Ultrasonic Sensor HC-SR04} \label{subsub:ultra}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Ultrasonic}
+	\caption{Ultrasonic Sensor HC-SR04} \label{fig:ultra}
+\end{figure}
+
+Ultrasonic Sensor HC-SR04 is used for detecting obstacles in front to prevent accidents. We use ultrasonic to prevent collisions with objects or living things.
+
+\begin{table}[H]
+	\centering
+	\label{tab:ultra}
+	\caption{Specification of ESP8266 Board}
+	\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	every head row/.style = {before row=\toprule ,after row = \midrule},
+	every last row/.style ={after row = \bottomrule},
+	columns/No./.style={column type = l}]{Ultrasonic.csv}
+\end{table}
+
+\newpage 
+
+\subsection{Driver and Motor} \label{sub:drivernmotor}
+
+\subsubsection{Motor Driver Module L298N} \label{subsub:driver}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Driver}
+	\caption{Motor Driver Module L298N} \label{fig:driver}
+\end{figure}
+
+Motor Driver Module L298N is used for motor driving, speed control and direction control. We will use the module to control speed and direction along the black line. The operating voltage is 7 to 35 V DC and the maximum current that this driver can handle is 2 A.
+
+\subsubsection{Motor} \label{subsub:motor}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Motor}
+	\caption{Motor} \label{fig:motor}
+\end{figure}
+
+Motors are used for running the trolley. For this project we decide to use 2 motors to run the trolley.
+
+\begin{table}[H]
+	\centering
+	\label{tab:motor}
+	\caption{Specification of Motor}
+	\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	every head row/.style = {before row=\toprule ,after row = \midrule},
+	every last row/.style ={after row = \bottomrule},
+	columns/No./.style={column type = l}]{Motor.csv}
+\end{table}
+
+\subsection{Miscellaneous} \label{sub:misc}
+
+\subsubsection{Metal Bars with screw holds} \label{subsub:metal}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Metal}
+	\caption{Metal Bars} \label{fig:metal}
+\end{figure}
+
+\subsubsection{Switch} \label{subsub:switch}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Switch}
+	\caption{Switch} \label{fig:switch}
+\end{figure}
+
+\subsubsection{Wires} \label{subsub:wires}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Wires}
+	\caption{Wires} \label{fig:wires}
+\end{figure}
+
+\subsubsection{Wheels} \label{subsub:wheels}
+
+\begin{figure}[H]
+	\centering
+	\subfloat[Front Wheels.\label{fig:front}]{\includegraphics[height= 4cm]{Wheels2}} \hspace{0.5cm}
+	\subfloat[Back Wheels.\label{fig:back}]{\includegraphics[height= 4cm]{Wheels1}}
+	\caption{Wheels} \label{fig:wheels}
+\end{figure}
+
+\subsubsection{Batteries} \label{subsub:batteries}
+
+\begin{figure}[H]
+	\centering
+	\subfloat[Batteries.\label{fig:batteries1}]{\includegraphics[height= 4cm]{Batteries1}} \hspace{0.5cm}
+	\subfloat[Battery tray.\label{fig:batteries2}]{\includegraphics[height= 4cm]{Batteries2}} \\ \vspace{0.5cm}
+	\subfloat[Battery charger.\label{fig:batteries3}]{\includegraphics[height= 4cm]{Batteries3}}
+	\caption{Batteries} \label{fig:batteries}
+\end{figure}
+
+\subsubsection{Magnets} \label{subsub:magnets}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{Magnets}
+	\caption{Magnets} \label{fig:magnets}
+\end{figure}
+
+\subsection{Mechanism Design of the system} \label{sub:mechanism}
+
+\begin{figure}[H]
+	\centering
+	\subfloat[Expected 3D Design of the system.\label{fig:design1}]{\includegraphics[height= 5cm]{Design1}} \hspace{1cm}
+	\subfloat[Expected 3D Design of the system.\label{fig:design2}]{\includegraphics[height= 5cm]{Design2}}
+	\caption{3D design of DIY Automatic Delivery Trolley and stations.} \label{fig:3ddesign}
+\end{figure}
+
+As we see in Figure \ref{fig:3ddesign}, the finishing product is anticipated to be driven by the motors and has the direction controlled by the IR sensor which has Arduino UNO as a compute center. Moreover, there will be a scissor lift to deliver the document to the hand of the sender (in sit position).  
 
 \end{document}

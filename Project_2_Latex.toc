@@ -8,3 +8,18 @@
 \contentsline {subsection}{\numberline {3.1}Block diagram of the System}{2}%
 \contentsline {subsection}{\numberline {3.2}Controller}{2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Arduino Uno Board}{2}%
+\contentsline {subsubsection}{\numberline {3.2.2}ESP8266}{3}%
+\contentsline {subsection}{\numberline {3.3}Sensors}{4}%
+\contentsline {subsubsection}{\numberline {3.3.1}Infrared (IR) Obstacle Avoidance Sensor Module}{4}%
+\contentsline {subsubsection}{\numberline {3.3.2}Ultrasonic Sensor HC-SR04}{5}%
+\contentsline {subsection}{\numberline {3.4}Driver and Motor}{6}%
+\contentsline {subsubsection}{\numberline {3.4.1}Motor Driver Module L298N}{6}%
+\contentsline {subsubsection}{\numberline {3.4.2}Motor}{6}%
+\contentsline {subsection}{\numberline {3.5}Miscellaneous}{7}%
+\contentsline {subsubsection}{\numberline {3.5.1}Metal Bars with screw holds}{7}%
+\contentsline {subsubsection}{\numberline {3.5.2}Switch}{7}%
+\contentsline {subsubsection}{\numberline {3.5.3}Wires}{7}%
+\contentsline {subsubsection}{\numberline {3.5.4}Wheels}{8}%
+\contentsline {subsubsection}{\numberline {3.5.5}Batteries}{8}%
+\contentsline {subsubsection}{\numberline {3.5.6}Magnets}{9}%
+\contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{9}%

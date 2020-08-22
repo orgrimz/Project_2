@@ -1,0 +1,15 @@
+﻿No.,Description,Remarks
+1,Microcontroller,Xtensa Single-Core 32-Bit
+,,L106
+2,802.11 b/g/n Wi-Fi,Yes/ HT20
+3,Typical Frequency,80 MHz
+4,SRAM,160 KBytess
+5,Flash,SPI Flash/ up to 16 Mbytes
+6,Operating Voltage,2.5V ~ 3.6V
+7,Operating Current,Average value: 80 mA
+8,Software PWM,8 Channels
+9,GPIO,17
+10,SPI/I2C/I2S/UART,2/1/2/2
+11,ADC,10-bit
+12,Working Temperature,-40ºC-125ºC
+13,Security,WPA/WPA2

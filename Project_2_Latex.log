@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.22)  22 AUG 2020 20:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.22)  23 AUG 2020 00:21
 entering extended mode
 **./Project_2_Latex.tex
 (Project_2_Latex.tex
@@ -596,28 +596,54 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count281
 \@thisrulewidth=\dimen279
 )
+(C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/05/30 v3.4k Customizing captions (AR)
+
+(C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.st
+y
+Package: caption3 2020/07/20 v1.12b caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen280
+\captionmargin@=\dimen281
+\captionwidth=\dimen282
+\caption@tempdima=\dimen283
+\caption@indent=\dimen284
+\caption@parindent=\dimen285
+\caption@hangindent=\dimen286
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count282
+\c@continuedfloat=\count283
+Package caption Info: float package is loaded.
+)
+(C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.
+sty
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+\c@subfigure=\count284
+\c@subtable=\count285
+)
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend
 -pdfmode.def
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count282
+\l__kernel_color_stack_int=\count286
 \l__pdf_internal_box=\box61
 ) (Project_2_Latex.aux)
 \openout1 = `Project_2_Latex.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -657,16 +683,16 @@ LaTeX Font Info:    ... okay on input line 11.
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pd
 f.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count283
-\scratchdimen=\dimen280
+\scratchcounter=\count287
+\scratchdimen=\dimen287
 \scratchbox=\box62
-\nofMPsegments=\count284
-\nofMParguments=\count285
+\nofMPsegments=\count288
+\nofMParguments=\count289
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count286
-\MPscratchDim=\dimen281
-\MPnumerator=\count287
-\makeMPintoPDFobject=\count288
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen288
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
 \everyMPtoPDFconversion=\toks37
 )
 (C:\Users\Windows10\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstop
@@ -679,12 +705,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 11.
+ on input line 14.
 
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 [1
 
 {C:/Users/Windows10/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 47--56
+Underfull \hbox (badness 10000) in paragraph at lines 50--59
 
  []
 
@@ -706,7 +734,7 @@ File: D:/Ze/Works/GitHub/Project2/Image/Blockdiagram.png Graphic file (type png
 )
 <use D:/Ze/Works/GitHub/Project2/Image/Blockdiagram.png>
 Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Blockdiagram.png  us
-ed on input line 99.
+ed on input line 102.
 (pdftex.def)             Requested size: 261.64099pt x 170.71652pt.
  [1]
 <D:/Ze/Works/GitHub/Project2/Image/ArduinoUno.png, id=23, 1778.14313pt x 1291.8
@@ -714,31 +742,148 @@ ed on input line 99.
 File: D:/Ze/Works/GitHub/Project2/Image/ArduinoUno.png Graphic file (type png)
 <use D:/Ze/Works/GitHub/Project2/Image/ArduinoUno.png>
 Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/ArduinoUno.png  used
- on input line 111.
-(pdftex.def)             Requested size: 234.96523pt x 170.71652pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
-
- []
-
-[2 <D:/Ze/Works/GitHub/Project2/Image/Blockdiagram.png> <D:/Ze/Works/GitHub/Pro
-ject2/Image/ArduinoUno.png>]
+ on input line 114.
+(pdftex.def)             Requested size: 195.8134pt x 142.26378pt.
 PGFPlots: reading {Arduino.csv}
- [3] (Project_2_Latex.aux) ) 
+ [2 <D:/Ze/Works/GitHub/Project2/Image/Blockdiagram.png> <D:/Ze/Works/GitHub/Pr
+oject2/Image/ArduinoUno.png>]
+<D:/Ze/Works/GitHub/Project2/Image/ESP8266.jpg, id=28, 164.25pt x 166.221pt>
+File: D:/Ze/Works/GitHub/Project2/Image/ESP8266.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/ESP8266.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/ESP8266.jpg  used on
+ input line 136.
+(pdftex.def)             Requested size: 140.57805pt x 142.26378pt.
+PGFPlots: reading {ESP8266.csv}
+ [3 <D:/Ze/Works/GitHub/Project2/Image/ESP8266.jpg>]
+<D:/Ze/Works/GitHub/Project2/Image/Infrared.png, id=33, 159.3225pt x 159.3225pt
+>
+File: D:/Ze/Works/GitHub/Project2/Image/Infrared.png Graphic file (type png)
+<use D:/Ze/Works/GitHub/Project2/Image/Infrared.png>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Infrared.png  used o
+n input line 160.
+(pdftex.def)             Requested size: 142.2706pt x 142.26378pt.
+<D:/Ze/Works/GitHub/Project2/Image/Ultrasonic.jpg, id=35, 217.1385pt x 165.2355
+pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Ultrasonic.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Ultrasonic.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Ultrasonic.jpg  used
+ on input line 170.
+(pdftex.def)             Requested size: 186.95082pt x 142.26378pt.
+ [4 <D:/Ze/Works/GitHub/Project2/Image/Infrared.png>]
+PGFPlots: reading {Ultrasonic.csv}
+ [5 <D:/Ze/Works/GitHub/Project2/Image/Ultrasonic.jpg>]
+<D:/Ze/Works/GitHub/Project2/Image/Driver.jpg, id=44, 173.7765pt x 173.7765pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Driver.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Driver.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Driver.jpg  used on 
+input line 196.
+(pdftex.def)             Requested size: 142.27225pt x 142.26378pt.
+<D:/Ze/Works/GitHub/Project2/Image/Motor.jpg, id=45, 154.0665pt x 154.0665pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Motor.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Motor.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Motor.jpg  used on i
+nput line 206.
+(pdftex.def)             Requested size: 142.26477pt x 142.26378pt.
+PGFPlots: reading {Motor.csv}
+<D:/Ze/Works/GitHub/Project2/Image/Metal.jpg, id=46, 118.917pt x 153.738pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Metal.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Metal.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Metal.jpg  used on i
+nput line 230.
+(pdftex.def)             Requested size: 110.04367pt x 142.26378pt.
+ [6 <D:/Ze/Works/GitHub/Project2/Image/Driver.jpg> <D:/Ze/Works/GitHub/Project2
+/Image/Motor.jpg>]
+<D:/Ze/Works/GitHub/Project2/Image/Switch.png, id=50, 340.27126pt x 301.125pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Switch.png Graphic file (type png)
+<use D:/Ze/Works/GitHub/Project2/Image/Switch.png>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Switch.png  used on 
+input line 238.
+(pdftex.def)             Requested size: 160.76343pt x 142.26378pt.
+<D:/Ze/Works/GitHub/Project2/Image/Wires.jpg, id=51, 231.264pt x 169.506pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Wires.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Wires.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Wires.jpg  used on i
+nput line 246.
+(pdftex.def)             Requested size: 194.10162pt x 142.26378pt.
+<D:/Ze/Works/GitHub/Project2/Image/Wheels2.jpg, id=52, 117.603pt x 133.0425pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Wheels2.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Wheels2.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Wheels2.jpg  used on
+ input line 254.
+(pdftex.def)             Requested size: 100.60544pt x 113.81102pt.
+<D:/Ze/Works/GitHub/Project2/Image/Wheels1.jpg, id=53, 332.7705pt x 163.9215pt>
+
+File: D:/Ze/Works/GitHub/Project2/Image/Wheels1.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Wheels1.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Wheels1.jpg  used on
+ input line 255.
+(pdftex.def)             Requested size: 231.04886pt x 113.81102pt.
+ [7 <D:/Ze/Works/GitHub/Project2/Image/Metal.jpg> <D:/Ze/Works/GitHub/Project2/
+Image/Switch.png> <D:/Ze/Works/GitHub/Project2/Image/Wires.jpg>]
+<D:/Ze/Works/GitHub/Project2/Image/Batteries1.jpg, id=57, 246.7035pt x 169.1775
+pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Batteries1.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Batteries1.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Batteries1.jpg  used
+ on input line 263.
+(pdftex.def)             Requested size: 165.96806pt x 113.81102pt.
+<D:/Ze/Works/GitHub/Project2/Image/Batteries2.jpg, id=58, 174.4335pt x 153.738p
+t>
+File: D:/Ze/Works/GitHub/Project2/Image/Batteries2.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Batteries2.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Batteries2.jpg  used
+ on input line 264.
+(pdftex.def)             Requested size: 129.13199pt x 113.81102pt.
+<D:/Ze/Works/GitHub/Project2/Image/Batteries3.jpg, id=59, 161.9505pt x 169.506p
+t>
+File: D:/Ze/Works/GitHub/Project2/Image/Batteries3.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Batteries3.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Batteries3.jpg  used
+ on input line 265.
+(pdftex.def)             Requested size: 108.74103pt x 113.81102pt.
+<D:/Ze/Works/GitHub/Project2/Image/Magnets.jpg, id=60, 117.603pt x 111.033pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Magnets.jpg Graphic file (type jpg)
+<use D:/Ze/Works/GitHub/Project2/Image/Magnets.jpg>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Magnets.jpg  used on
+ input line 273.
+(pdftex.def)             Requested size: 150.68205pt x 142.26378pt.
+
+[8 <D:/Ze/Works/GitHub/Project2/Image/Wheels2.jpg> <D:/Ze/Works/GitHub/Project2
+/Image/Wheels1.jpg> <D:/Ze/Works/GitHub/Project2/Image/Batteries1.jpg> <D:/Ze/W
+orks/GitHub/Project2/Image/Batteries2.jpg> <D:/Ze/Works/GitHub/Project2/Image/B
+atteries3.jpg>]
+<D:/Ze/Works/GitHub/Project2/Image/Design1.png, id=65, 397.485pt x 372.64218pt>
+
+File: D:/Ze/Works/GitHub/Project2/Image/Design1.png Graphic file (type png)
+<use D:/Ze/Works/GitHub/Project2/Image/Design1.png>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Design1.png  used on
+ input line 281.
+(pdftex.def)             Requested size: 151.74335pt x 142.26378pt.
+<D:/Ze/Works/GitHub/Project2/Image/Design2.png, id=66, 416.30531pt x 385.44pt>
+File: D:/Ze/Works/GitHub/Project2/Image/Design2.png Graphic file (type png)
+<use D:/Ze/Works/GitHub/Project2/Image/Design2.png>
+Package pdftex.def Info: D:/Ze/Works/GitHub/Project2/Image/Design2.png  used on
+ input line 282.
+(pdftex.def)             Requested size: 153.65576pt x 142.26378pt.
+ [9 <D:/Ze/Works/GitHub/Project2/Image/Magnets.jpg> <D:/Ze/Works/GitHub/Project
+2/Image/Design1.png> <D:/Ze/Works/GitHub/Project2/Image/Design2.png>] (Project_
+2_Latex.aux) ) 
 Here is how much of TeX's memory you used:
- 23407 strings out of 481212
- 623828 string characters out of 2904097
- 981208 words of memory out of 3000000
- 38631 multiletter control sequences out of 15000+200000
- 539948 words of font info for 45 fonts, out of 3000000 for 9000
+ 24803 strings out of 481212
+ 651054 string characters out of 2904097
+ 984206 words of memory out of 3000000
+ 40014 multiletter control sequences out of 15000+200000
+ 540585 words of font info for 47 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,8n,102p,872b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Windows10/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Windows10/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on Project_2_Latex.pdf (7 pages, 1555700 bytes).
+ <C:\Users\Windows10\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappe
+n/ec/dpi600\tcrm1200.pk><C:/Users/Windows10/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Windows10/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Windows10/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on Project_2_Latex.pdf (13 pages, 2652715 bytes).
 PDF statistics:
- 40 PDF objects out of 1000 (max. 8388607)
+ 88 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 23 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
