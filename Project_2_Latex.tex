@@ -1,6 +1,8 @@
 \documentclass[12pt]{article}
 \usepackage{geometry}
 \geometry{a4paper, margin = 1in, left = 1.2in}
+\usepackage{graphicx}
+\usepackage{float}
 
 \begin{document}
 
@@ -36,13 +38,66 @@
 \end{titlepage}
 
 \newpage
+\thispagestyle{empty}
 
-Approved by Project Advisor:\newline
+\noindent Approved by Project Advisor:\newline
 \hspace*{7cm} Name: Asst.Prof.Dr. Narong Aphiratsakun \\
 \hspace*{7cm} Signature:\\
 \hspace*{7cm} Date:\hrulefill \\
+[1cm]
 Plagiarism verified by: \\
 \hspace*{7cm} Name: Mr. Ehsan Ali \\
 \hspace*{7cm} Signature: \\
 \hspace*{7cm} Date:\hrulefill \\
+
+\newpage
+\pagenumbering{roman}
+\addcontentsline{toc}{section}{\numberline{}Abstract}
+
+\section*{Abstract}\label{sec:abs}
+
+\indent This project will describe the automatic delivery trolley for sending documents to a specific station. This system is able to deliver documents without human interaction using trolley mechanisms. Various type of documents can be sent/receive to and from several stations. Moreover, the trolley system can be control using command issue via mobile application. The system consists of infrared (IR) sensor to make the trolley run along the black line and ultrasonic sensor to avoid colliding with objects or people. This project can be used in various physical/environmental situations. For example, sending the documents or medicine in the hospital, homes with elderly or disabled people. In addition, the scale can be developed or expanded to use other works like transporting various parts in the factory or transportation between cities.
+
+\newpage
+
+\tableofcontents
+\thispagestyle{empty}
+
+\newpage
+\pagenumbering{arabic}
+
+\setcounter{page}{1}
+
+\section{Introduction} \label{sec:intro}
+
+\subsection{Introduction of Topic} \label{subsec:intro}
+
+Nowadays, automation industrial plays significant role in the world as we can see in the daily life such as automatic door and vacuum cleaner robot. We can say that automation technology initiates other technology so that they have their own names and branch, for example, Robotics. We as a student would like to apply some automation technology to a daily life so that others can easily access to it. What we are going to do is DIY automatic delivery trolley.
+
+\subsection{Project Objective} \label{subsec:project obj}
+
+Delivery something to someone might be a hard time if there is far distant between them. So, we develop this DIY automatic delivery trolley to solve this problem. The user will use smart phone application to control the Trolley to deliver the item from one place to another.
+
+\section{Project Overview} \label{sec:project over}
+
+\subsection{Initial study \& Background study} \label{subsec:initial study}
+
+Currently, there are many types of controller, but we found 2 main types of controller that are suitable for our project: Arduino and Raspberry Pi. \par
+Raspberry Pi resembles a mini PC but use an OS that is developed from Linux. For the Raspberry Pi can use Python C++ to write the command. \par
+Arduino is a microcontroller which can only work in accordance with the program that we wrote and there is no built-in OS. It is designed to be economical, small, does not require additional equipment for uploading sketches. there is also a port to connect with external sensors more than Raspberry Pi. There are various protocols which is a standard for connecting with external hardware for example I2C, SIP, UART including both Digital and Analog port. Importantly, it works more specifically type than Raspberry Pi for example real time control Arduino is more suitable than Raspberry Pi. In addition, Arduino is also designed the system to prevent over-voltage better than Raspberry Pi.
+
+\section{System} \label{sec:system}
+
+\subsection{Block diagram of System} \label{subsec:block diagram}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height=2cm]{\Ze\Works\GitHub\Project_2\Image\Block_diagram.jpg}
+	\caption{Block diagram of this system} \label{fig:block}
+	
+	
+\end{figure}
+
+
+
 \end{document}
