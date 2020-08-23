@@ -9,10 +9,14 @@
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage{subcaption}
-
+\usepackage{fancyvrb}
+\usepackage{xcolor}
+\usepackage[utf8]{inputenc}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage[hidelinks]{hyperref}
+\usepackage{listings}
 
 \begin{document}
-
 \begin{titlepage}
 	\begin{center}
 		
@@ -100,6 +104,7 @@ Arduino is a microcontroller which can only work in accordance with the program 
 \begin{figure}[H]
 	\centering
 	\includegraphics[height= 6cm]{Blockdiagram}
+	\vspace{0.1cm}
 	\caption{Block diagram of the system} \label{fig:block}	
 \end{figure}
 
@@ -283,6 +288,41 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{3D design of DIY Automatic Delivery Trolley and stations.} \label{fig:3ddesign}
 \end{figure}
 
-As we see in Figure \ref{fig:3ddesign}, the finishing product is anticipated to be driven by the motors and has the direction controlled by the IR sensor which has Arduino UNO as a compute center. Moreover, there will be a scissor lift to deliver the document to the hand of the sender (in sit position).  
+As we see in Figure \ref{fig:3ddesign}, the finishing product is anticipated to be driven by the motors and has the direction controlled by the IR sensor which has Arduino UNO as a compute center. Moreover, there will be a scissor lift to deliver the document to the hand of the sender (in sit position).
+
+\subsection{Circuit diagram of DIY Automatic Delivery Trolley} \label{sub:circuit}
+
+\begin{center}
+	\textcolor{red}{In Progress}
+\end{center}
+
+\subsection{Flow chart of the system}
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 13cm]{Flowchart}
+	\caption{Flow chart of the system} \label{fig:flowchart}
+\end{figure}
+
+As shown in Figure \ref{fig:flowchart}, our trolley will wait at the parking spot. When it receives order from the application, they will go to the station according to the input which are input A goes to station A and input B goes to station B. The trolley will wait at the station for the user to confirm that the document has been placed at amount of time. If there is no confirmation, the trolley will return to the station. When the user has confirmed, the trolley will deliver the document to another station and then it will return to the parking spot and wait for another order.
+
+\section{Conclusion} \label{sec:conclusion}
+\begin{center}
+	\textcolor{red}{In Progress}
+\end{center}
+
+\nocite{*}
+\bibliographystyle{IEEEtran}
+\bibliography{References}
+\addcontentsline{toc}{section}{\numberline{}References}
+
+\newpage
+
+\appendix
+\section{Coding} \label{sec:coding}
+\subsection{Motors and Ultrasonic Code} \label{sub:}
+\lstinputlisting{MotorUltrasonicCode.ino}
+
+
 
 \end{document}

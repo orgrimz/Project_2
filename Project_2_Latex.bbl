@@ -1,0 +1,41 @@
+\begin{thebibliography}{1}
+
+\bibitem{microcontrollerweb}
+M.~Rouse, ``What is a microcontroller and how does it work?.'' \url{
+  https://internetofthingsagenda.techtarget.com/definition/microcontroller}.
+\newblock \newline Accessed: 2019-09-30.
+
+\bibitem{arduinoweb}
+{Official Arduino Developer}, ``What is arduino?.''
+  \url{https://www.arduino.cc/en/guide/introduction}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{linefollower1web}
+{Aarav G.}, ``How to make line follower robot using arduino.''
+  \url{https://www.instructables.com/id/Line-Follower-Robot-Using-Arduino-2/}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{linefollower2web}
+{RoboCircuits}, ``Line follower robot.''
+  \url{https://create.arduino.cc/projecthub/robocircuits/line-follower-robot-arduino-299bae}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{ledcontrolweb}
+{VIVEK GR.}, ``Simple led control with blynk and nodemcu esp8266 12e.''
+  \url{https://www.instructables.com/id/Simple-Led-Control-With-Blynk-and-NodeMCU-Esp8266-/}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{nodemcuweb}
+{DanishMalhotra}, ``Getting started with nodemcu v1.0 and blynk app.''
+  \url{https://www.instructables.com/id/Getting-Started-With-NodeMCU-V10-and-Blynk-App/}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{tinkercadweb}
+{Autodesk}, ``Tinkercad.'' \url{https://www.tinkercad.com}.
+\newblock Accessed: 2019-09-30.
+
+\bibitem{drawioweb}
+{jgraph}, ``Diagrams.'' \url{https://app.diagrams.net/}.
+\newblock Accessed: 2019-09-30.
+
+\end{thebibliography}

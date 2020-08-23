@@ -1,25 +1,31 @@
-\contentsline {section}{\hbox to\@tempdima {\hfil }Abstract}{i}%
-\contentsline {section}{\numberline {1}Introduction}{1}%
-\contentsline {subsection}{\numberline {1.1}Introduction of Topic}{1}%
-\contentsline {subsection}{\numberline {1.2}Project Objective}{1}%
-\contentsline {section}{\numberline {2}Project Overview}{1}%
-\contentsline {subsection}{\numberline {2.1}Initial study \& Background study}{1}%
-\contentsline {section}{\numberline {3}System}{2}%
-\contentsline {subsection}{\numberline {3.1}Block diagram of the System}{2}%
-\contentsline {subsection}{\numberline {3.2}Controller}{2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Arduino Uno Board}{2}%
-\contentsline {subsubsection}{\numberline {3.2.2}ESP8266}{3}%
-\contentsline {subsection}{\numberline {3.3}Sensors}{4}%
-\contentsline {subsubsection}{\numberline {3.3.1}Infrared (IR) Obstacle Avoidance Sensor Module}{4}%
-\contentsline {subsubsection}{\numberline {3.3.2}Ultrasonic Sensor HC-SR04}{5}%
-\contentsline {subsection}{\numberline {3.4}Driver and Motor}{6}%
-\contentsline {subsubsection}{\numberline {3.4.1}Motor Driver Module L298N}{6}%
-\contentsline {subsubsection}{\numberline {3.4.2}Motor}{6}%
-\contentsline {subsection}{\numberline {3.5}Miscellaneous}{7}%
-\contentsline {subsubsection}{\numberline {3.5.1}Metal Bars with screw holds}{7}%
-\contentsline {subsubsection}{\numberline {3.5.2}Switch}{7}%
-\contentsline {subsubsection}{\numberline {3.5.3}Wires}{7}%
-\contentsline {subsubsection}{\numberline {3.5.4}Wheels}{8}%
-\contentsline {subsubsection}{\numberline {3.5.5}Batteries}{8}%
-\contentsline {subsubsection}{\numberline {3.5.6}Magnets}{9}%
-\contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{9}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }Abstract}{i}{Doc-Start}%
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Introduction of Topic}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Project Objective}{1}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Project Overview}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Initial study \& Background study}{1}{subsection.2.1}%
+\contentsline {section}{\numberline {3}System}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Block diagram of the System}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Controller}{2}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Arduino Uno Board}{2}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}ESP8266}{3}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Sensors}{4}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Infrared (IR) Obstacle Avoidance Sensor Module}{4}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Ultrasonic Sensor HC-SR04}{5}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}Driver and Motor}{6}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Motor Driver Module L298N}{6}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Motor}{6}{subsubsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.5}Miscellaneous}{7}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Metal Bars with screw holds}{7}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Switch}{7}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Wires}{7}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Wheels}{8}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Batteries}{8}{subsubsection.3.5.5}%
+\contentsline {subsubsection}{\numberline {3.5.6}Magnets}{9}{subsubsection.3.5.6}%
+\contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{9}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Circuit diagram of DIY Automatic Delivery Trolley}{9}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Flow chart of the system}{10}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }References}{11}{section*.22}%
+\contentsline {section}{\numberline {A}Coding}{12}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Motors and Ultrasonic Code}{12}{subsection.A.1}%
