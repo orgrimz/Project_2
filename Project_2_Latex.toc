@@ -22,10 +22,17 @@
 \contentsline {subsubsection}{\numberline {3.5.4}Wheels}{8}{subsubsection.3.5.4}%
 \contentsline {subsubsection}{\numberline {3.5.5}Batteries}{8}{subsubsection.3.5.5}%
 \contentsline {subsubsection}{\numberline {3.5.6}Magnets}{9}{subsubsection.3.5.6}%
-\contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{9}{subsection.3.6}%
-\contentsline {subsection}{\numberline {3.7}Circuit diagram of DIY Automatic Delivery Trolley}{9}{subsection.3.7}%
-\contentsline {subsection}{\numberline {3.8}Flow chart of the system}{10}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Conclusion}{10}{section.4}%
-\contentsline {section}{\hbox to\@tempdima {\hfil }References}{11}{section*.22}%
-\contentsline {section}{\numberline {A}Coding}{12}{appendix.A}%
-\contentsline {subsection}{\numberline {A.1}Motors and Ultrasonic Code}{12}{subsection.A.1}%
+\contentsline {subsubsection}{\numberline {3.5.7}Acrylic Sheet}{9}{subsubsection.3.5.7}%
+\contentsline {subsubsection}{\numberline {3.5.8}Wooden Sticks}{9}{subsubsection.3.5.8}%
+\contentsline {subsubsection}{\numberline {3.5.9}Basket}{10}{subsubsection.3.5.9}%
+\contentsline {subsubsection}{\numberline {3.5.10}Solderless Bread Board}{10}{subsubsection.3.5.10}%
+\contentsline {subsubsection}{\numberline {3.5.11}Stud bolt and Nut}{10}{subsubsection.3.5.11}%
+\contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{11}{subsection.3.6}%
+\contentsline {subsection}{\numberline {3.7}Circuit diagram of DIY Automatic Delivery Trolley}{11}{subsection.3.7}%
+\contentsline {subsection}{\numberline {3.8}Flow chart of the system}{12}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Methology}{12}{section.4}%
+\contentsline {section}{\numberline {5}Experiment and Result}{12}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{12}{section.6}%
+\contentsline {section}{\hbox to\@tempdima {\hfil }References}{13}{section*.27}%
+\contentsline {section}{\numberline {A}Coding}{14}{appendix.A}%
+\contentsline {subsection}{\numberline {A.1}Motors and Ultrasonic Code}{14}{subsection.A.1}%
