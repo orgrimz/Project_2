@@ -30,9 +30,11 @@
 \contentsline {subsection}{\numberline {3.6}Mechanism Design of the system}{11}{subsection.3.6}%
 \contentsline {subsection}{\numberline {3.7}Circuit diagram of DIY Automatic Delivery Trolley}{11}{subsection.3.7}%
 \contentsline {subsection}{\numberline {3.8}Flow chart of the system}{12}{subsection.3.8}%
-\contentsline {section}{\numberline {4}Methology}{12}{section.4}%
-\contentsline {section}{\numberline {5}Experiment and Result}{12}{section.5}%
-\contentsline {section}{\numberline {6}Conclusion}{12}{section.6}%
+\contentsline {section}{\numberline {4}Methology}{13}{section.4}%
+\contentsline {section}{\numberline {5}Experiment and Result}{13}{section.5}%
+\contentsline {section}{\numberline {6}Conclusion}{13}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Work done}{13}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Future work}{13}{subsection.6.2}%
 \contentsline {section}{\hbox to\@tempdima {\hfil }References}{13}{section*.27}%
 \contentsline {section}{\numberline {A}Coding}{14}{appendix.A}%
 \contentsline {subsection}{\numberline {A.1}Motors and Ultrasonic Code}{14}{subsection.A.1}%
