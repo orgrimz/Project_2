@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.10)  24 SEP 2020 16:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.9.10)  2 OCT 2020 14:36
 entering extended mode
 **./Project_2_Latex.tex
 (Project_2_Latex.tex
@@ -922,7 +922,7 @@ LaTeX Info: Redefining \nameref on input line 19.
  [1
 
 {C:/Users/OwlBaronZ/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 54--63
+Underfull \hbox (badness 10000) in paragraph at lines 56--65
 
  []
 
@@ -930,7 +930,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.64 \newpage
+l.66 \newpage
               [1] [1] (Project_2_Latex.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3.
@@ -949,13 +949,13 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Blockdiagram.png Graphic file (type p
 ng)
 <use D:/Reef/Work/GitHub/Project_2/Image/Blockdiagram.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Blockdiagram.png  
-used on input line 106.
+used on input line 108.
 (pdftex.def)             Requested size: 261.64099pt x 170.71652pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.110 
+l.112 
        [1]
 <D:/Reef/Work/GitHub/Project_2/Image/ArduinoUno.png, id=225, 1778.14313pt x 129
 1.82625pt>
@@ -963,7 +963,7 @@ File: D:/Reef/Work/GitHub/Project_2/Image/ArduinoUno.png Graphic file (type png
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/ArduinoUno.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/ArduinoUno.png  us
-ed on input line 119.
+ed on input line 121.
 (pdftex.def)             Requested size: 195.8134pt x 142.26378pt.
 PGFPlots: reading {Arduino.csv}
  [2 <D:/Reef/Work/GitHub/Project_2/Image/Blockdiagram.png> <D:/Reef/Work/GitHub
@@ -973,7 +973,7 @@ PGFPlots: reading {Arduino.csv}
 File: D:/Reef/Work/GitHub/Project_2/Image/ESP8266.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/ESP8266.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/ESP8266.jpg  used 
-on input line 141.
+on input line 143.
 (pdftex.def)             Requested size: 140.57805pt x 142.26378pt.
 PGFPlots: reading {ESP8266.csv}
  [3 <D:/Reef/Work/GitHub/Project_2/Image/ESP8266.jpg>]
@@ -982,7 +982,7 @@ PGFPlots: reading {ESP8266.csv}
 File: D:/Reef/Work/GitHub/Project_2/Image/Infrared.png Graphic file (type png)
 <use D:/Reef/Work/GitHub/Project_2/Image/Infrared.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Infrared.png  used
- on input line 165.
+ on input line 167.
 (pdftex.def)             Requested size: 142.2706pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Ultrasonic.jpg, id=243, 217.1385pt x 165.2
 355pt>
@@ -990,7 +990,7 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Ultrasonic.jpg Graphic file (type jpg
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/Ultrasonic.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Ultrasonic.jpg  us
-ed on input line 175.
+ed on input line 177.
 (pdftex.def)             Requested size: 186.95082pt x 142.26378pt.
  [4 <D:/Reef/Work/GitHub/Project_2/Image/Infrared.png>]
 PGFPlots: reading {Ultrasonic.csv}
@@ -1001,21 +1001,21 @@ t>
 File: D:/Reef/Work/GitHub/Project_2/Image/Driver.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Driver.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Driver.jpg  used o
-n input line 201.
+n input line 203.
 (pdftex.def)             Requested size: 142.27225pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Motor.jpg, id=259, 154.0665pt x 154.0665pt
 >
 File: D:/Reef/Work/GitHub/Project_2/Image/Motor.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Motor.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Motor.jpg  used on
- input line 211.
+ input line 213.
 (pdftex.def)             Requested size: 142.26477pt x 142.26378pt.
 PGFPlots: reading {Motor.csv}
 <D:/Reef/Work/GitHub/Project_2/Image/Metal.jpg, id=260, 118.917pt x 153.738pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Metal.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Metal.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Metal.jpg  used on
- input line 235.
+ input line 237.
 (pdftex.def)             Requested size: 110.04367pt x 142.26378pt.
  [6 <D:/Reef/Work/GitHub/Project_2/Image/Driver.jpg> <D:/Reef/Work/GitHub/Proje
 ct_2/Image/Motor.jpg>]
@@ -1024,27 +1024,27 @@ t>
 File: D:/Reef/Work/GitHub/Project_2/Image/Switch.png Graphic file (type png)
 <use D:/Reef/Work/GitHub/Project_2/Image/Switch.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Switch.png  used o
-n input line 243.
+n input line 245.
 (pdftex.def)             Requested size: 160.76343pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Wires.jpg, id=269, 231.264pt x 169.506pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Wires.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Wires.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Wires.jpg  used on
- input line 251.
+ input line 253.
 (pdftex.def)             Requested size: 194.10162pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Wheels2.jpg, id=270, 117.603pt x 133.0425p
 t>
 File: D:/Reef/Work/GitHub/Project_2/Image/Wheels2.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Wheels2.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Wheels2.jpg  used 
-on input line 259.
+on input line 261.
 (pdftex.def)             Requested size: 100.60544pt x 113.81102pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Wheels1.jpg, id=271, 332.7705pt x 163.9215
 pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Wheels1.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Wheels1.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Wheels1.jpg  used 
-on input line 260.
+on input line 262.
 (pdftex.def)             Requested size: 231.04886pt x 113.81102pt.
 
 [7 <D:/Reef/Work/GitHub/Project_2/Image/Metal.jpg> <D:/Reef/Work/GitHub/Project
@@ -1055,7 +1055,7 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Batteries1.jpg Graphic file (type jpg
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/Batteries1.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Batteries1.jpg  us
-ed on input line 268.
+ed on input line 270.
 (pdftex.def)             Requested size: 165.96806pt x 113.81102pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Batteries2.jpg, id=280, 174.4335pt x 153.7
 38pt>
@@ -1063,7 +1063,7 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Batteries2.jpg Graphic file (type jpg
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/Batteries2.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Batteries2.jpg  us
-ed on input line 269.
+ed on input line 271.
 (pdftex.def)             Requested size: 129.13199pt x 113.81102pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Batteries3.jpg, id=281, 161.9505pt x 169.5
 06pt>
@@ -1071,14 +1071,14 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Batteries3.jpg Graphic file (type jpg
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/Batteries3.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Batteries3.jpg  us
-ed on input line 270.
+ed on input line 272.
 (pdftex.def)             Requested size: 108.74103pt x 113.81102pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Magnets.jpg, id=282, 117.603pt x 111.033pt
 >
 File: D:/Reef/Work/GitHub/Project_2/Image/Magnets.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Magnets.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Magnets.jpg  used 
-on input line 278.
+on input line 280.
 (pdftex.def)             Requested size: 150.68205pt x 142.26378pt.
  [8 <D:/Reef/Work/GitHub/Project_2/Image/Wheels2.jpg> <D:/Reef/Work/GitHub/Proj
 ect_2/Image/Wheels1.jpg> <D:/Reef/Work/GitHub/Project_2/Image/Batteries1.jpg> <
@@ -1089,20 +1089,20 @@ t_2/Image/Batteries3.jpg>]
 File: D:/Reef/Work/GitHub/Project_2/Image/Acrylic.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Acrylic.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Acrylic.jpg  used 
-on input line 286.
+on input line 288.
 (pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Wood.jpg, id=291, 2007.5pt x 1505.625pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Wood.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Wood.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Wood.jpg  used on 
-input line 294.
+input line 296.
 (pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Basket.jpg, id=292, 2007.5pt x 1505.625pt>
 
 File: D:/Reef/Work/GitHub/Project_2/Image/Basket.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Basket.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Basket.jpg  used o
-n input line 302.
+n input line 304.
 (pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
  [9 <D:/Reef/Work/GitHub/Project_2/Image/Magnets.jpg> <D:/Reef/Work/GitHub/Proj
 ect_2/Image/Acrylic.jpg> <D:/Reef/Work/GitHub/Project_2/Image/Wood.jpg>]
@@ -1112,27 +1112,27 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Breadboard.jpg Graphic file (type jpg
 )
 <use D:/Reef/Work/GitHub/Project_2/Image/Breadboard.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Breadboard.jpg  us
-ed on input line 310.
+ed on input line 312.
 (pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Stud.jpg, id=302, 2007.5pt x 1505.625pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Stud.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/Stud.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Stud.jpg  used on 
-input line 318.
+input line 320.
 (pdftex.def)             Requested size: 189.67299pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Design1.png, id=303, 397.485pt x 372.64218
 pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/Design1.png Graphic file (type png)
 <use D:/Reef/Work/GitHub/Project_2/Image/Design1.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Design1.png  used 
-on input line 327.
+on input line 329.
 (pdftex.def)             Requested size: 151.74335pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/Design2.png, id=304, 416.30531pt x 385.44p
 t>
 File: D:/Reef/Work/GitHub/Project_2/Image/Design2.png Graphic file (type png)
 <use D:/Reef/Work/GitHub/Project_2/Image/Design2.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Design2.png  used 
-on input line 328.
+on input line 330.
 (pdftex.def)             Requested size: 153.65576pt x 142.26378pt.
  [10 <D:/Reef/Work/GitHub/Project_2/Image/Basket.jpg> <D:/Reef/Work/GitHub/Proj
 ect_2/Image/Breadboard.jpg> <D:/Reef/Work/GitHub/Project_2/Image/Stud.jpg>]
@@ -1142,10 +1142,10 @@ File: D:/Reef/Work/GitHub/Project_2/Image/Flowchart.png Graphic file (type png)
 
 <use D:/Reef/Work/GitHub/Project_2/Image/Flowchart.png>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/Flowchart.png  use
-d on input line 344.
+d on input line 346.
 (pdftex.def)             Requested size: 495.06612pt x 369.88582pt.
 
-Overfull \hbox (56.552pt too wide) in paragraph at lines 344--345
+Overfull \hbox (56.552pt too wide) in paragraph at lines 346--347
  [][] 
  []
 
@@ -1155,44 +1155,44 @@ ect_2/Image/Design2.png>]
 File: D:/Reef/Work/GitHub/Project_2/Image/M1.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M1.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M1.jpg  used on in
-put line 357.
+put line 359.
 (pdftex.def)             Requested size: 105.83752pt x 142.26378pt.
  [12 <D:/Reef/Work/GitHub/Project_2/Image/Flowchart.png>]
 <D:/Reef/Work/GitHub/Project_2/Image/M2.jpg, id=326, 1493.58pt x 2007.5pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/M2.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M2.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M2.jpg  used on in
-put line 367.
+put line 369.
 (pdftex.def)             Requested size: 105.83752pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/M3.jpg, id=327, 1493.58pt x 2007.5pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/M3.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M3.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M3.jpg  used on in
-put line 377.
+put line 379.
 (pdftex.def)             Requested size: 105.83752pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/M4.jpg, id=328, 1493.58pt x 2007.5pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/M4.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M4.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M4.jpg  used on in
-put line 378.
+put line 380.
 (pdftex.def)             Requested size: 105.83752pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/M5.jpg, id=329, 1493.58pt x 2007.5pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/M5.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M5.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M5.jpg  used on in
-put line 388.
+put line 390.
 (pdftex.def)             Requested size: 105.83752pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/M6.jpg, id=330, 963.6pt x 1712.3975pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/M6.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/M6.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/M6.jpg  used on in
-put line 389.
+put line 391.
 (pdftex.def)             Requested size: 80.04494pt x 142.26378pt.
 <D:/Reef/Work/GitHub/Project_2/Image/m7.jpg, id=331, 1493.58pt x 2007.5pt>
 File: D:/Reef/Work/GitHub/Project_2/Image/m7.jpg Graphic file (type jpg)
 <use D:/Reef/Work/GitHub/Project_2/Image/m7.jpg>
 Package pdftex.def Info: D:/Reef/Work/GitHub/Project_2/Image/m7.jpg  used on in
-put line 390.
+put line 392.
 (pdftex.def)             Requested size: 84.66547pt x 113.81102pt.
  [13 <D:/Reef/Work/GitHub/Project_2/Image/M1.jpg> <D:/Reef/Work/GitHub/Project_
 2/Image/M2.jpg> <D:/Reef/Work/GitHub/Project_2/Image/M3.jpg> <D:/Reef/Work/GitH
@@ -1212,13 +1212,13 @@ arted -[] With -[] NodeMCU -[] V10 -[]
 
 ) [15]
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 417.
+nput line 419.
  (MotorUltrasonicCode.ino [16] [17]) [18]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 423.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 423.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 425.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 425.
  (Project_2_Latex.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 423.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 423.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 425.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 425.
 Package rerunfilecheck Info: File `Project_2_Latex.out' has not changed.
 (rerunfilecheck)             Checksum: 9DD695810BE1B0488569008DA9305D02;2635.
 
@@ -1227,11 +1227,11 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 31092 strings out of 481212
- 750294 string characters out of 2904097
- 1107843 words of memory out of 3000000
- 45969 multiletter control sequences out of 15000+200000
- 540754 words of font info for 48 fonts, out of 3000000 for 9000
+ 31090 strings out of 481212
+ 750259 string characters out of 2904097
+ 1107842 words of memory out of 3000000
+ 45967 multiletter control sequences out of 15000+200000
+ 540148 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  74i,8n,102p,872b,1755s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\OwlBaronZ\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
@@ -1240,7 +1240,7 @@ c/amsfonts/cm/cmbx12.pfb><C:/Users/OwlBaronZ/AppData/Local/Programs/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/OwlBaronZ/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/OwlBaronZ/AppData/Lo
 cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on Project_2_Latex.pdf (22 pages, 5459968 bytes).
+Output written on Project_2_Latex.pdf (22 pages, 5460133 bytes).
 PDF statistics:
  558 PDF objects out of 1000 (max. 8388607)
  207 named destinations out of 1000 (max. 500000)
