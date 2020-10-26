@@ -230,7 +230,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 
 \subsection{Miscellaneous} \label{sub:misc}
 
-\subsubsection{Metal Bars with screw holds} \label{subsub:metal}
+\subsubsection*{Metal Bars with screw holds} \label{subsub:metal}
 
 \begin{figure}[H]
 	\centering
@@ -238,7 +238,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Metal Bars} \label{fig:metal}
 \end{figure}
 
-\subsubsection{Switch} \label{subsub:switch}
+\subsubsection*{Switch} \label{subsub:switch}
 
 \begin{figure}[H]
 	\centering
@@ -246,7 +246,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Switch} \label{fig:switch}
 \end{figure}
 
-\subsubsection{Wires} \label{subsub:wires}
+\subsubsection*{Wires} \label{subsub:wires}
 
 \begin{figure}[H]
 	\centering
@@ -254,7 +254,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Wires} \label{fig:wires}
 \end{figure}
 
-\subsubsection{Wheels} \label{subsub:wheels}
+\subsubsection*{Wheels} \label{subsub:wheels}
 
 \begin{figure}[H]
 	\centering
@@ -263,7 +263,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Wheels} \label{fig:wheels}
 \end{figure}
 
-\subsubsection{Batteries} \label{subsub:batteries}
+\subsubsection*{Batteries} \label{subsub:batteries}
 
 \begin{figure}[H]
 	\centering
@@ -273,7 +273,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Batteries} \label{fig:batteries}
 \end{figure}
 
-\subsubsection{Magnets} \label{subsub:magnets}
+\subsubsection*{Magnets} \label{subsub:magnets}
 
 \begin{figure}[H]
 	\centering
@@ -281,7 +281,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Magnets} \label{fig:magnets}
 \end{figure}
 
-\subsubsection{Acrylic Sheet} \label{subsub:acrylic}
+\subsubsection*{Acrylic Sheet} \label{subsub:acrylic}
 
 \begin{figure}[H]
 	\centering
@@ -289,7 +289,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Acrylic Sheet} \label{fig:acrylic}
 \end{figure}
 
-\subsubsection{Wooden Sticks} \label{subsub:sticks}
+\subsubsection*{Wooden Sticks} \label{subsub:sticks}
 
 \begin{figure}[H]
 	\centering
@@ -297,7 +297,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Wooden Sticks} \label{fig:sticks}
 \end{figure}
 
-\subsubsection{Basket} \label{subsub:basket}
+\subsubsection*{Basket} \label{subsub:basket}
 
 \begin{figure}[H]
 	\centering
@@ -305,7 +305,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Basket} \label{fig:basket}
 \end{figure}
 
-\subsubsection{Solderless Bread Board} \label{subsub:breadboard}
+\subsubsection*{Solderless Bread Board} \label{subsub:breadboard}
 
 \begin{figure}[H]
 	\centering
@@ -313,7 +313,7 @@ Motors are used for running the trolley. For this project we decide to use 2 mot
 	\caption{Solderless Bread Board} \label{fig:breadboard}
 \end{figure}
 
-\subsubsection{Stud bolt and Nut} \label{subsub:stud}
+\subsubsection*{Stud bolt and Nut} \label{subsub:stud}
 
 \begin{figure}[H]
 	\centering
@@ -335,19 +335,21 @@ As we see in Figure \ref{fig:3ddesign}, the finishing product is anticipated to 
 
 \subsection{Circuit diagram of DIY Automatic Delivery Trolley} \label{sub:circuit}
 
-\begin{center}
-	\textcolor{red}{In Progress}
-\end{center}
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 15cm]{Circuit}
+	\caption{Circuit} \label{fig:cir}
+\end{figure}
 
 \subsection{Flow chart of the system}
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[height= 13cm]{Flowchart}
+	\includegraphics[height= 13cm]{Flowchart2}
 	\caption{Flow chart of the system} \label{fig:flowchart}
 \end{figure}
 
-As shown in Figure \ref{fig:flowchart}, our trolley will wait at the parking spot. When it receives order from the application, they will go to the station according to the input which are input A goes to station A and input B goes to station B. The trolley will wait at the station for the user to confirm that the document has been placed at amount of time. If there is no confirmation, the trolley will return to the station. When the user has confirmed, the trolley will deliver the document to another station and then it will return to the parking spot and wait for another order.
+As shown in Figure \ref{fig:flowchart}, our trolley will wait at the station A or station B. Each station has different distant between the trolley and the station so the trolley will know where to go since the the trolley has the ultrasonic sensor to check the distant between the trolley and the station when it parked. The user then press start and the trolley will go according to the path that we have prepared.  
 
 \section{Methology} \label{sec:methology}
 
@@ -390,10 +392,75 @@ Forthly, a model of scissor lift was created then a scissor lift was built and a
 	\subfloat[Model of a scissor lift \label{fig:m5}]{\includegraphics[height= 5cm]{M5}} \hspace{1cm}
 	\subfloat[Scissor lift \label{fig:m6}]{\includegraphics[height= 5cm]{M6}} \\ \vspace{0.5cm}
 	\subfloat[Scissor lift \label{fig:m7}]{\includegraphics[height= 4cm]{m7}}
-	\caption{Model of a scissor lift and a scissor lift} \label{fig:m3m4}
+	\caption{Model of a scissor lift and a scissor lift} \label{fig:m3m}
 \end{figure}
 
-% \section{Experiment and Result} \label{sec:experiment} %
+Finally, connect all the parts together.
+
+\begin{figure}[H]
+	\centering
+	\includegraphics[height= 5cm]{com}
+	\caption{Completed model} \label{fig:com}
+\end{figure}
+
+
+\section{Experiment and Result} \label{sec:experiment}
+
+\subsection{Delivery System} \label{subsec:delivery}
+\begin{figure}[H]
+	\centering
+	\subfloat[ 
+	\label{fig:deli1}]{\includegraphics[height= 3cm]{deli1}} \hspace{1cm}
+	\subfloat[ 
+	\label{fig:deli2}]{\includegraphics[height= 4cm]{deli2}} \\ \vspace{0.5cm}
+	\subfloat[ 
+	\label{fig:deli3}]{\includegraphics[height= 4cm]{deli3}}
+	\hspace{1cm}
+	\subfloat[
+	\label{fig:deli4}]{\includegraphics[height= 3cm]{deli4}} \\ \vspace{0.5cm}
+	\subfloat[
+	\label{fig:deli5}]{\includegraphics[height= 3cm]{deli5}}
+	\hspace{1cm}
+	\subfloat[
+	\label{fig:deli6}]{\includegraphics[height= 3cm]{deli6}} \\
+	\caption{Delivery system} \label{fig:deli}
+\end{figure}
+
+Firstly, the trolley is at the station A (Figure \ref{fig:deli1}) when the user push button "PUT ON B" (Figure \ref{fig:deli2}) and then press "START" (Figure \ref{fig:deli3}). The trolley will turn 180 degree counter clockwise (Figure \ref{fig:deli4}) then it will follow the line that we have prepared (Figure \ref{fig:deli5} and \ref{fig:deli6})
+
+\subsection{Obstacle Detection System} \label{subsec:obstacle}
+
+\begin{figure}[H]
+	\centering
+	\subfloat[
+	\label{fig:ob1}]{\includegraphics[height= 5cm]{ob1}} \hspace{1cm}
+	\subfloat[
+	\label{fig:ob2}]{\includegraphics[height= 5cm]{ob2}}
+	\hspace{1cm}
+	\subfloat[
+	\label{fig:ob3}]{\includegraphics[height= 5cm]{ob3}}
+	\caption{Obstacle Detection System} \label{fig:ob}
+\end{figure}
+
+In this experiment, we use an object to block the path of the trolley (Figure \ref{fig:ob1}). The trolley stop at the last moment before it hit the object (Figure \ref{fig:ob2}). When the object is removed, the trolley continue to follow its path (Figure \ref{fig:ob3}). 
+
+\subsection{Lifting System} \label{subsec:lifting}
+
+\begin{figure}[H]
+	\centering
+	\subfloat[ 
+	\label{fig:li1}]{\includegraphics[height= 5cm]{li1}} \hspace{1cm}
+	\subfloat[ 
+	\label{fig:li2}]{\includegraphics[height= 4cm]{li2}} \\ \vspace{0.5cm}
+	\subfloat[ 
+	\label{fig:li3}]{\includegraphics[height= 4cm]{li3}}
+	\hspace{1cm}
+	\subfloat[
+	\label{fig:li4}]{\includegraphics[height= 5cm]{li4}} \\ 
+	\caption{Lifting system} \label{fig:li}
+\end{figure}
+
+When the document needed to be delivered at the station (Figure \ref{fig:li1}), the user has to press "DOWN" (Figure \ref{fig:li2} and \ref{fig:li3}) to move the lift down and the document will stay on the top (Figure \ref{fig:li4}).
 
 \section{Conclusion} \label{sec:conclusion}
 
@@ -415,8 +482,10 @@ There are many options that the trolley can be improved and developed. The camer
 
 \appendix
 \section{Coding} \label{sec:coding}
-\subsection{Motors and Ultrasonic Code} \label{sub:}
-\texttt{\lstinputlisting{MotorUltrasonicCode.ino}}
+\subsection{Arduino Code} \label{sub:acode}
+\texttt{\lstinputlisting{Arduino.ino}}
+\subsection{ESP Code} \label{sub:ecode}
+\texttt{\lstinputlisting{ESP.ino}}
 
 
 

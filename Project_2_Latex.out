@@ -16,24 +16,18 @@
 \BOOKMARK [3][-]{subsubsection.3.4.1}{Motor Driver Module L298N}{subsection.3.4}% 16
 \BOOKMARK [3][-]{subsubsection.3.4.2}{Motor}{subsection.3.4}% 17
 \BOOKMARK [2][-]{subsection.3.5}{Miscellaneous}{section.3}% 18
-\BOOKMARK [3][-]{subsubsection.3.5.1}{Metal Bars with screw holds}{subsection.3.5}% 19
-\BOOKMARK [3][-]{subsubsection.3.5.2}{Switch}{subsection.3.5}% 20
-\BOOKMARK [3][-]{subsubsection.3.5.3}{Wires}{subsection.3.5}% 21
-\BOOKMARK [3][-]{subsubsection.3.5.4}{Wheels}{subsection.3.5}% 22
-\BOOKMARK [3][-]{subsubsection.3.5.5}{Batteries}{subsection.3.5}% 23
-\BOOKMARK [3][-]{subsubsection.3.5.6}{Magnets}{subsection.3.5}% 24
-\BOOKMARK [3][-]{subsubsection.3.5.7}{Acrylic Sheet}{subsection.3.5}% 25
-\BOOKMARK [3][-]{subsubsection.3.5.8}{Wooden Sticks}{subsection.3.5}% 26
-\BOOKMARK [3][-]{subsubsection.3.5.9}{Basket}{subsection.3.5}% 27
-\BOOKMARK [3][-]{subsubsection.3.5.10}{Solderless Bread Board}{subsection.3.5}% 28
-\BOOKMARK [3][-]{subsubsection.3.5.11}{Stud bolt and Nut}{subsection.3.5}% 29
-\BOOKMARK [2][-]{subsection.3.6}{Mechanism Design of the system}{section.3}% 30
-\BOOKMARK [2][-]{subsection.3.7}{Circuit diagram of DIY Automatic Delivery Trolley}{section.3}% 31
-\BOOKMARK [2][-]{subsection.3.8}{Flow chart of the system}{section.3}% 32
-\BOOKMARK [1][-]{section.4}{Methology}{}% 33
-\BOOKMARK [1][-]{section.5}{Conclusion}{}% 34
-\BOOKMARK [2][-]{subsection.5.1}{Work done}{section.5}% 35
-\BOOKMARK [2][-]{subsection.5.2}{Future work}{section.5}% 36
-\BOOKMARK [1][-]{section*.31}{References}{}% 37
-\BOOKMARK [1][-]{appendix.A}{Coding}{}% 38
-\BOOKMARK [2][-]{subsection.A.1}{Motors and Ultrasonic Code}{appendix.A}% 39
+\BOOKMARK [2][-]{subsection.3.6}{Mechanism Design of the system}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.7}{Circuit diagram of DIY Automatic Delivery Trolley}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.8}{Flow chart of the system}{section.3}% 21
+\BOOKMARK [1][-]{section.4}{Methology}{}% 22
+\BOOKMARK [1][-]{section.5}{Experiment and Result}{}% 23
+\BOOKMARK [2][-]{subsection.5.1}{Delivery System}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.2}{Obstacle Detection System}{section.5}% 25
+\BOOKMARK [2][-]{subsection.5.3}{Lifting System}{section.5}% 26
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 27
+\BOOKMARK [2][-]{subsection.6.1}{Work done}{section.6}% 28
+\BOOKMARK [2][-]{subsection.6.2}{Future work}{section.6}% 29
+\BOOKMARK [1][-]{section*.47}{References}{}% 30
+\BOOKMARK [1][-]{appendix.A}{Coding}{}% 31
+\BOOKMARK [2][-]{subsection.A.1}{Arduino Code}{appendix.A}% 32
+\BOOKMARK [2][-]{subsection.A.2}{ESP Code}{appendix.A}% 33
